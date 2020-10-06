@@ -86,10 +86,6 @@ p{
     background-color: hsl(233, 100%, 69%); 
 }
 
-.button--blue:hover{
-    background-color:hsl(171, 66%, 44%); 
-}
-
 .button--green{
     background-color:hsl(171, 66%, 44%); 
 }
